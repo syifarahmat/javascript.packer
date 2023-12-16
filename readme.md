@@ -9,6 +9,7 @@ Use This Tools To Reduce Size Of JavaScript\
 👉 Clone This Repo\
 👉 Run : virtualenv env\
 👉 Run : env\Scripts\activate\
+👉 Run : pip install -r requirements.txt\
 👉 Run : python pack.py -d [Path To Directory Contains JavaScript], Ex : python pack.py -d /usr/prject/assets/js\
 👉 This Will Generate New JavaScript With Sub Directory /packed/\
 .
