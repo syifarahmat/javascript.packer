@@ -11,7 +11,7 @@ Use This Tools To Reduce Size Of JavaScript\
 👉 Run : env\Scripts\activate\
 👉 Run : pip install -r requirements.txt\
 👉 Run : python pack.py -d [Path To Directory Contains JavaScript], Ex : python pack.py -d /usr/prject/assets/js\
-👉 This Will Generate New JavaScript With Sub Directory /packed/\
+👉 This Will Generate New JavaScript With Output In Sub Directory /packed/\
 .
 # Note
 This Only Pack JavaScript With Size() Greater Than Size(pack.min.template) * 2\
